@@ -53,5 +53,5 @@ dkms.conf
 
 #Inventor
 *OldVersions/
-.Inventor/Photos/
+.Inventor/_Photos/
 
